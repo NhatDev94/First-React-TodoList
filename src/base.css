@@ -1,0 +1,13 @@
+.completed {
+    text-decoration: line-through;
+    color: silver;
+}
+
+.hide {
+    display: none !important;
+}
+
+.filter-active {
+    border: 1px solid silver;
+    border-radius: 5px;
+}
